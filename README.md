@@ -15,7 +15,7 @@ This repository features a fully automated **ETL (Extract, Transform, Load)** pi
 ## Live Data Preview
 This project maintains a live history of market movements. Below is a preview of the automatically generated dataset:
 
-![Market Data Screenshot](Screenshot 2026-01-17 212856.png)
+![Market Data Screenshot](data_preview.png)
 
 ---
 
