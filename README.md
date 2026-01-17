@@ -15,7 +15,7 @@ This repository features a fully automated **ETL (Extract, Transform, Load)** pi
 ## Live Data Preview
 This project maintains a live history of market movements. Below is a preview of the automatically generated dataset:
 
-![Market Data Screenshot](Screenshot 2026-01-17 212856.png)
+![Market Data Screenshot](https://github.com/pranjalmandhan/crypto-market-pipeline/commit/f54116252de2b987fcc1e2f917da6c64b6e4f18b#diff-c2a17b2cee5ebb62b800218b90950d3e1530b528129fe364e5865e4913d0a8c1)
 
 ---
 
